@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "org.mozilla.geckoview_example",
+    "sha256_cert_fingerprints": ["41:36:82:67:7F:F2:88:EE:F6:2B:B6:1B:BE:E9:B5:22:E2:7F:73:FD:60:4F:6E:C6:E7:57:ED:D9:6E:B7:1B:D6"]
+  }
+}]
